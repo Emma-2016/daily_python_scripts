@@ -1,1 +1,2 @@
-# daily_python_scripts
+
+python scripts for daily work tasks
